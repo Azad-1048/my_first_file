@@ -1,1 +1,1 @@
-# my_first_file
+cout << "Add the two number" << A+B;
